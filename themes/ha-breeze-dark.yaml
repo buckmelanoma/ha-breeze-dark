@@ -7,7 +7,7 @@ Breeze Dark Theme:
   app-header-selection-bar-color: var(--primary-color)
   app-header-edit-background-color: rgb(136, 136, 136)
   # Main Interface Colors
-  primary-color: rgb(138, 180, 248)
+  primary-color: rgb(61, 174, 233)
   primary-background-color: rgb(27, 30, 32)
   secondary-background-color: rgb(42, 46, 50)
   divider-color: var(--primary-background-color)
@@ -21,18 +21,18 @@ Breeze Dark Theme:
   sidebar-icon-color: rgb(169, 177, 188)
   sidebar-text-color: rgb(198, 203, 210)
   sidebar-background-color: rgb(42, 46, 50)
-  sidebar-selected-icon-color: rgb(138, 180, 248)
+  sidebar-selected-icon-color: rgb(61, 174, 233)
   sidebar-selected-text-color: var(--sidebar-selected-icon-color)
   # Buttons
   paper-item-icon-color: rgb(169, 177, 188)
-  paper-item-icon-active-color: rgb(138, 180, 248)
-  mdc-button-outline-color: rgb(138, 180, 248)
+  paper-item-icon-active-color: rgb(61, 174, 233)
+  mdc-button-outline-color: rgb(61, 174, 233)
   # States and Badges
   state-icon-color: var(--paper-item-icon-color)
   state-icon-active-color: var(--paper-item-icon-active-color)
   state-icon-unavailable-color: var(--disabled-text-color)
   # Sliders
-  paper-slider-knob-color: rgb(138, 180, 248)
+  paper-slider-knob-color: rgb(61, 174, 233)
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
   paper-slider-active-color: var(--paper-slider-knob-color)
