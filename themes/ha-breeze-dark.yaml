@@ -53,8 +53,8 @@ Breeze Dark Theme:
   paper-listbox-background-color: var(--card-background-color)
   paper-card-background-color: var(--card-background-color)
   # Switches
-  switch-checked-button-color: rgb(138, 180, 248)
-  switch-checked-track-color: rgb(138, 180, 248)
+  switch-checked-button-color: rgb(61, 174, 233)
+  switch-checked-track-color: rgb(61, 174, 233)
   switch-unchecked-button-color: rgb(172, 176, 185)
   switch-unchecked-track-color: rgb(154, 160, 166)
   # Toggles
