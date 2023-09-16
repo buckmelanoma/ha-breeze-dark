@@ -2,13 +2,13 @@
 #
 Breeze Dark Theme:
   # Header:
-  app-header-background-color: rgb(23, 23, 23)
+  app-header-background-color: rgb(27, 30, 32)
   app-header-text-color: rgb(198, 203, 210)
   app-header-selection-bar-color: var(--primary-color)
   app-header-edit-background-color: rgb(136, 136, 136)
   # Main Interface Colors
   primary-color: rgb(138, 180, 248)
-  primary-background-color: rgb(23, 23, 23)
+  primary-background-color: rgb(27, 30, 32)
   secondary-background-color: rgb(42, 46, 50)
   divider-color: var(--primary-background-color)
   accent-color: var(--primary-color)
@@ -71,8 +71,8 @@ Breeze Dark Theme:
   material-secondary-background-color: var(--table-row-alternative-background-color)
   mdc-theme-surface: var(--secondary-background-color)
   # Pre/Code
-  markdown-code-background-color: rgb(23, 23, 23)
-  code-editor-background-color: rgb(23, 23, 23)
+  markdown-code-background-color: rgb(27, 30, 32)
+  code-editor-background-color: rgb(27, 30, 32)
   # Checkboxes
   mdc-checkbox-unchecked-color: rgb(169, 177, 188)
   mdc-checkbox-disable-color: var(--disabled-text-color)
