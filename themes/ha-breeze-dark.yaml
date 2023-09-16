@@ -56,7 +56,7 @@ Breeze Dark Theme:
   switch-checked-button-color: rgb(61, 174, 233)
   switch-checked-track-color: rgb(61, 174, 233)
   switch-unchecked-button-color: rgb(92, 95, 98)
-  switch-unchecked-track-color: rgb(63, 66, 70)
+  switch-unchecked-track-color: rgb(92, 95, 98)
   # Toggles
   paper-toggle-button-checked-button-color: var(--switch-checked-button-color)
   paper-toggle-button-checked-bar-color: var(--switch-checked-track-color)
