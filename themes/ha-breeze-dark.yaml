@@ -46,8 +46,8 @@ Breeze Dark Theme:
   label-badge-yellow: rgb(223, 194, 113)
   label-badge-gray: rgb(95, 98, 103)
   # Cards
-  card-background-color: rgb(49, 54, 59)
-  ha-card-background: rgb(49, 54, 59)
+  card-background-color: rgb(27, 30, 32)
+  ha-card-background: rgb(27, 30, 32)
   ha-card-border-color: rgb(100, 104, 107)
   paper-dialog-background-color: var(--card-background-color)
   paper-listbox-background-color: var(--card-background-color)
