@@ -18,13 +18,13 @@ Breeze Dark Theme:
   text-primary-color: var(--primary-text-color)
   disabled-text-color: rgba(184, 190, 199, 0.4)
   # Sidebar Menu
-  sidebar-icon-color: rgb(169, 177, 188)
+  sidebar-icon-color: rgb(142, 142, 142)
   sidebar-text-color: rgb(252, 252, 252)
   sidebar-background-color: rgb(42, 46, 50)
   sidebar-selected-icon-color: rgb(61, 174, 233)
   sidebar-selected-text-color: var(--sidebar-selected-icon-color)
   # Buttons
-  paper-item-icon-color: rgb(169, 177, 188)
+  paper-item-icon-color: rgb(142, 142, 142)
   paper-item-icon-active-color: rgb(61, 174, 233)
   mdc-button-outline-color: rgb(61, 174, 233)
   # States and Badges
@@ -74,7 +74,7 @@ Breeze Dark Theme:
   markdown-code-background-color: rgb(27, 30, 32)
   code-editor-background-color: rgb(27, 30, 32)
   # Checkboxes
-  mdc-checkbox-unchecked-color: rgb(169, 177, 188)
+  mdc-checkbox-unchecked-color: rgb(26, 29, 31)
   mdc-checkbox-disable-color: var(--disabled-text-color)
   mdc-select-fill-color: rgb(42, 43, 46)
   mdc-select-ink-color: var(--primary-text-color)
