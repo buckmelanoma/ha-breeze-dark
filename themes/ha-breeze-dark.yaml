@@ -2,13 +2,13 @@
 
 Breeze Dark Theme:
   # Header:
-  app-header-background-color: rgb(42, 46, 50)
+  app-header-background-color: rgb(49, 54, 59)
   app-header-text-color: rgb(252, 252, 252)
   app-header-selection-bar-color: var(--primary-color)
   app-header-edit-background-color: rgb(136, 136, 136)
   # Main Interface Colors
   primary-color: rgb(61, 174, 233)
-  primary-background-color: rgb(42, 46, 50)
+  primary-background-color: rgb(49, 54, 59)
   secondary-background-color: rgb(42, 46, 50)
   divider-color: rgb(100, 104, 107)
   accent-color: var(--primary-color)
