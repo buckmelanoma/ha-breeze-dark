@@ -1,0 +1,6 @@
+{
+  "name": "Breeze Dark",
+  "hacs": "0.21.2",
+  "filename": "breeze-dark.yaml",
+  "render_readme": true
+}
