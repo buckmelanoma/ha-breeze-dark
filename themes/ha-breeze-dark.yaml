@@ -93,3 +93,5 @@ Breeze Dark Theme:
   #RGB
   rgb-primary-text-color: 169, 177, 188
   rgb-primary-color: 169, 177, 188
+  
+  primary-font-family: 'Noto Sans'
