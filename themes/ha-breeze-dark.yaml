@@ -10,7 +10,7 @@ Breeze Dark Theme:
   primary-color: rgb(61, 174, 233)
   primary-background-color: rgb(27, 30, 32)
   secondary-background-color: rgb(42, 46, 50)
-  divider-color: rgb(61, 174, 233) # var(--primary-background-color)
+  divider-color: rgb(100, 104, 107) # var(--primary-background-color)
   accent-color: var(--primary-color)
   # Text
   primary-text-color: rgb(242, 242, 242)
