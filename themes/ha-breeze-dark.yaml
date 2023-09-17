@@ -48,7 +48,7 @@ Breeze Dark Theme:
   # Cards
   card-background-color: rgb(27, 30, 32)
   ha-card-background: rgb(27, 30, 32)
-  ha-card-border-color: rgb(61, 174, 233)
+  ha-card-border-color: var(--card-background-color))
   paper-dialog-background-color: var(--card-background-color)
   paper-listbox-background-color: var(--card-background-color)
   paper-card-background-color: var(--card-background-color)
